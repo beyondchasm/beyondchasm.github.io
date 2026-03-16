@@ -106,6 +106,18 @@ a {
       fill: var(--dark);
     }
   }
+
+  // Badges are often wrapped in external links (e.g. shields.io). Hide the external-link icon
+  // and remove "pill" styling to avoid odd layout when the anchor contains only an image.
+  &.external:has(> img) {
+    background-color: transparent;
+    border-radius: 0;
+    padding: 0;
+  }
+
+  &.external:has(> img) .external-icon {
+    display: none;
+  }
 }
 
 .desktop-only {
@@ -330,6 +342,24 @@ thead {
   article > & > a[role="anchor"] {
     color: var(--dark);
     background-color: transparent;
+  }
+
+  // If a heading itself is a link (e.g. `### [[blog/index|...]]`), keep heading color
+  // and remove "pill" styling so it doesn't look broken in dark mode.
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: inherit !important;
+  }
+
+  a.internal,
+  a.external {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+    line-height: inherit;
   }
 }
 

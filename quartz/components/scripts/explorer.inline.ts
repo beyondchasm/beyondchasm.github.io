@@ -108,6 +108,13 @@ function setupExplorer() {
       explorer.addEventListener("click", toggleExplorer)
     }
 
+    if (explorer?.id === "mobile-explorer") {
+      const closeButton = document.getElementById("mobile-explorer-close")
+      const onClose = () => explorer.click()
+      closeButton?.addEventListener("click", onClose)
+      window.addCleanup?.(() => closeButton?.removeEventListener("click", onClose))
+    }
+
     // Set up click handlers for each folder (click handler on folder "icon")
     for (const item of document.getElementsByClassName(
       "folder-icon",

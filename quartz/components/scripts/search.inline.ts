@@ -151,6 +151,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const searchButton = document.getElementById("search-button")
   const searchBar = document.getElementById("search-bar") as HTMLInputElement | null
   const searchLayout = document.getElementById("search-layout")
+  const searchClose = document.getElementById("search-close")
   const idDataMap = Object.keys(data) as FullSlug[]
 
   const appendLayout = (el: HTMLElement) => {
@@ -194,6 +195,9 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
     searchButton?.focus()
   }
+
+  searchClose?.addEventListener("click", hideSearch)
+  window.addCleanup?.(() => searchClose?.removeEventListener("click", hideSearch))
 
   function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew

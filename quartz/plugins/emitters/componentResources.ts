@@ -164,6 +164,8 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   }
 
   if (cfg.enableSPA) {
+    // Keep this last so other component scripts can register their `nav` listeners first.
+    // The SPA router defines `window.addCleanup` and then triggers the initial `nav` event.
     componentResources.afterDOMLoaded.push(spaRouterScript)
   } else {
     componentResources.afterDOMLoaded.push(`

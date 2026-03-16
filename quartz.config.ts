@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    profileImageDir : "/static/profile/profileImage.jpg",
+    profileImageDir : "/static/profile/m_base.png",
     pageTitle: "오물개의 블로그 | 개발, IT, 그리고 뭐라도 만드는 이야기",
     pageTitleSuffix: "",
     keywords: "개발, IT, 블로그, 프로그래밍, 오물개, 정적 블로그, Quartz, 옵시디언",
