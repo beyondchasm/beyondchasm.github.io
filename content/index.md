@@ -2,7 +2,7 @@
 title: LittleSealStudio
 description: 사이드 프로젝트 과정. Flutter, Spring, 다양한 기술을 활용한 앱과 웹 서비스 개발 기록.
 keywords: 사이드 프로젝트, 개발 블로그, Flutter, Spring, 앱 개발, 웹 개발, IT,
-author: 오물개
+author: 작은물개
 ---
 
 <div align="left">
@@ -18,25 +18,25 @@ author: 오물개
 <div style="height: 8px"></div>
 
 <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
-  <a href="https://youtube.com/channel/UCLyB9yZYmqo-uajWArIWJSA?si=5sMCDaWjrlBdOwWb" target='new'>
+  <a href="https://youtube.com/@littlesealstudio?si=4WAJ87XssYLyZs74" target='new'>
     <img
       alt="YouTube"
       src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
     />
   </a>
-  <a href="https://www.instagram.com/littlesealstudio/">
+  <a href="https://www.threads.com/@omoolgae.dev">
     <img
-      alt="Instagram"
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+      alt="Thread"
+      src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"
     />
   </a>
-  <a href="https://open.kakao.com/o/REPLACE_ME" title="카카오 오픈채팅 링크로 교체하세요">
+  <a href="https://open.kakao.com/o/pMJybKli" title="카카오 오픈채팅">
     <img
       alt="KakaoTalk"
       src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000"
     />
   </a>
-  <a href="mailto:beyondchasm2024@gmail.com" title="메일 보내기">
+  <a href="mailto:littlesealstudio@gmail.com" title="메일 보내기">
     <img
       alt="Gmail"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"

@@ -13,11 +13,14 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "dev": "npx quartz build --serve",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "create-project": "tsx scripts/create-project.ts",
     "create-article": "tsx scripts/create-article.ts",
+    "deploy": "npx quartz build && npx gh-pages -d public -b gh-pages",
+    "save-deploy": "git add . && (git commit -m \"update site\" || echo \"No changes to commit\") && git push origin master && npm run deploy",
     "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
@@ -110,6 +113,7 @@
     "@types/ws": "^8.5.14",
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.25.0",
+    "gh-pages": "^6.3.0",
     "prettier": "^3.5.0",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
