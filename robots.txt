@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog.omoolgae.site/sitemap.xml
+Sitemap: https://littlesealstudio.kr/sitemap.xml

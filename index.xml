@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>오물개의 블로그 | 개발, IT, 그리고 뭐라도 만드는 이야기</title>
-      <link>https://blog.omoolgae.site</link>
-      <description>최근 10 건 on 오물개의 블로그 | 개발, IT, 그리고 뭐라도 만드는 이야기</description>
+      <title>작은물개스튜디오 | 개발, IT, 그리고 뭐라도 만드는 이야기</title>
+      <link>https://littlesealstudio.kr</link>
+      <description>최근 10 건 on 작은물개스튜디오 | 개발, IT, 그리고 뭐라도 만드는 이야기</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Blog</title>
-    <link>https://blog.omoolgae.site/blog/</link>
-    <guid>https://blog.omoolgae.site/blog/</guid>
+    <link>https://littlesealstudio.kr/blog/</link>
+    <guid>https://littlesealstudio.kr/blog/</guid>
     <description> .</description>
     <pubDate>Sun, 15 Mar 2026 08:34:30 GMT</pubDate>
   </item><item>
     <title>Projects</title>
-    <link>https://blog.omoolgae.site/projects/</link>
-    <guid>https://blog.omoolgae.site/projects/</guid>
+    <link>https://littlesealstudio.kr/projects/</link>
+    <guid>https://littlesealstudio.kr/projects/</guid>
     <description> .</description>
     <pubDate>Sun, 15 Mar 2026 08:30:29 GMT</pubDate>
   </item><item>
     <title>LittleSealStudio</title>
-    <link>https://blog.omoolgae.site/</link>
-    <guid>https://blog.omoolgae.site/</guid>
+    <link>https://littlesealstudio.kr/</link>
+    <guid>https://littlesealstudio.kr/</guid>
     <description>사이드 프로젝트 과정. Flutter, Spring, 다양한 기술을 활용한 앱과 웹 서비스 개발 기록.</description>
     <pubDate>Sun, 15 Mar 2026 06:52:07 GMT</pubDate>
   </item>
