@@ -170,7 +170,7 @@ export default (() => {
         {/* OG/Twitter meta tags */}
         <meta name="keywords" content="개발, IT, 블로그, 바이브코딩, 작은물개" />
         <meta name="naver-site-verification" content="9dccd2b0c209407beed0535a667bf32d9b8ea09d" />
-        <meta name="google-site-verification" content="R62Qr2X_0cTd4VQcOMYEzAra6AV-5G2KvDIpxqWn41Q" />
+        <meta name="google-site-verification" content="Jd02ELEPNqKJh73oCAJcuyR3r9qz7UpU-4wczX5a51k" />
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={`${title} | 작은물개 스튜디오`} />
         <meta property="og:type" content="website" />
