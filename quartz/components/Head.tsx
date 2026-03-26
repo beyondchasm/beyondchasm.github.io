@@ -123,7 +123,7 @@ export default (() => {
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.jpg`
     // "static/social-images/slug-filename.md.webp"
     const ogImageGeneratedPath = `https://${cfg.baseUrl}/${fileDir.replace(
       `${ctx.argv.output}/`,
@@ -168,11 +168,11 @@ export default (() => {
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin={"anonymous"} />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         {/* OG/Twitter meta tags */}
-        <meta name="keywords" content="개발, IT, 블로그, 프로그래밍, 오물개, 정적 사이트, Quartz" />
+        <meta name="keywords" content="개발, IT, 블로그, 바이브코딩, 작은물개" />
         <meta name="naver-site-verification" content="9dccd2b0c209407beed0535a667bf32d9b8ea09d" />
         <meta name="google-site-verification" content="R62Qr2X_0cTd4VQcOMYEzAra6AV-5G2KvDIpxqWn41Q" />
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
-        <meta property="og:title" content={`${title} | 오물개의 블로그`} />
+        <meta property="og:title" content={`${title} | 작은물개의 블로그`} />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />

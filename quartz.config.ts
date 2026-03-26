@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "littlesealstudio.kr", // ✅ 수정
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
