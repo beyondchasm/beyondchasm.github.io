@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: "G-WCMLLLLHW7"
+      tagId: "G-CYYRSYCQRH"
 
     },
     locale: "ko-KR",
