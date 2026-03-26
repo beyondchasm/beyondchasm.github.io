@@ -172,7 +172,7 @@ export default (() => {
         <meta name="naver-site-verification" content="9dccd2b0c209407beed0535a667bf32d9b8ea09d" />
         <meta name="google-site-verification" content="R62Qr2X_0cTd4VQcOMYEzAra6AV-5G2KvDIpxqWn41Q" />
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
-        <meta property="og:title" content={`${title} | 작은물개의 블로그`} />
+        <meta property="og:title" content={`${title} | 작은물개 스튜디오`} />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
