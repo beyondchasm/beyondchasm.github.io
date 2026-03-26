@@ -178,7 +178,7 @@ export default (() => {
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
-        <meta property="og:image:type" content={`image/${extension}`} />
+        <meta property="og:image:type" content={`image/${ogImagePath.split('.').pop() === 'jpg' ? 'jpeg' : ogImagePath.split('.').pop()}`} />
         <meta property="og:image:alt" content={description} />
         {/* Dont set width and height if unknown (when using custom frontmatter image) */}
         {!frontmatterImgUrl && (
