@@ -6,35 +6,65 @@
       <description>최근 10 건 on 작은물개스튜디오 | 개발, IT, 그리고 뭐라도 만드는 이야기</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>2026-03-27</title>
+    <link>https://littlesealstudio.kr/projects/todoong/devlog/2026-03-27</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/devlog/2026-03-27</guid>
+    <description>2026-03-27 Today Notes Next.</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
+  </item><item>
+    <title>feature-requests</title>
+    <link>https://littlesealstudio.kr/projects/todoong/feedback/feature-requests</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/feedback/feature-requests</guid>
+    <description>Feature Requests.</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
+  </item><item>
+    <title>terms-of-service</title>
+    <link>https://littlesealstudio.kr/projects/todoong/legal/terms-of-service</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/legal/terms-of-service</guid>
+    <description>Terms of Service.</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
+  </item><item>
     <title>개인정보처리방침 (Privacy Policy)</title>
-    <link>https://littlesealstudio.kr/projects/morsekito/privacy</link>
-    <guid>https://littlesealstudio.kr/projects/morsekito/privacy</guid>
+    <link>https://littlesealstudio.kr/projects/todoong/legal/privacy-policy</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/legal/privacy-policy</guid>
     <description>LittleSealStudio 앱 서비스의 개인정보처리방침입니다.</description>
-    <pubDate>Thu, 26 Mar 2026 16:15:13 GMT</pubDate>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
   </item><item>
-    <title>MorseKito (모스키토) 🦟</title>
-    <link>https://littlesealstudio.kr/projects/morsekito/introduce</link>
-    <guid>https://littlesealstudio.kr/projects/morsekito/introduce</guid>
-    <description>"Modern Morse, Modern Retro" - 프리미엄 픽셀 아트 모스 부호 툴킷.</description>
-    <pubDate>Thu, 26 Mar 2026 16:15:11 GMT</pubDate>
+    <title>landing</title>
+    <link>https://littlesealstudio.kr/projects/todoong/pages/landing</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/pages/landing</guid>
+    <description>Landing.</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
   </item><item>
-    <title>Blog</title>
-    <link>https://littlesealstudio.kr/blog/</link>
-    <guid>https://littlesealstudio.kr/blog/</guid>
-    <description> .</description>
-    <pubDate>Sun, 15 Mar 2026 08:34:30 GMT</pubDate>
+    <title>v0.1.0</title>
+    <link>https://littlesealstudio.kr/projects/todoong/release/versions/v0.1.0</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/release/versions/v0.1.0</guid>
+    <description>v0.1.0 Added Changed Fixed.</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
   </item><item>
-    <title>Projects</title>
-    <link>https://littlesealstudio.kr/projects/</link>
-    <guid>https://littlesealstudio.kr/projects/</guid>
-    <description> .</description>
-    <pubDate>Sun, 15 Mar 2026 08:30:29 GMT</pubDate>
+    <title>architecture</title>
+    <link>https://littlesealstudio.kr/projects/todoong/development/architecture</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/development/architecture</guid>
+    <description>Architecture.</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
   </item><item>
-    <title>LittleSealStudio</title>
-    <link>https://littlesealstudio.kr/</link>
-    <guid>https://littlesealstudio.kr/</guid>
-    <description>사이드 프로젝트 과정. Flutter, Spring, 다양한 기술을 활용한 앱과 웹 서비스 개발 기록.</description>
-    <pubDate>Sun, 15 Mar 2026 06:52:07 GMT</pubDate>
+    <title>devlog</title>
+    <link>https://littlesealstudio.kr/projects/todoong/development/devlog</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/development/devlog</guid>
+    <description>Devlog.</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
+  </item><item>
+    <title>tech-stack</title>
+    <link>https://littlesealstudio.kr/projects/todoong/development/tech-stack</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/development/tech-stack</guid>
+    <description>Tech Stack.</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://littlesealstudio.kr/projects/todoong/issues/README</link>
+    <guid>https://littlesealstudio.kr/projects/todoong/issues/README</guid>
+    <description>Issues issue-0001.md, issue-0002.md 처럼 번호로 관리 각 이슈는 “문제 → 원인 → 해결 → 회고” 구조로 작성 .</description>
+    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
   </item>
     </channel>
   </rss>
