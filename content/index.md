@@ -74,6 +74,8 @@ author: 작은물개
 #### 최근 프로젝트
 
 <!-- HOME:PROJECTS:START -->
+- [[projects/todoong/index|투둥]]
+- [[projects/morsekito/introduce|MorseKito (모스키토) 🦟]]
 <!-- HOME:PROJECTS:END -->
 
 👉 [[projects/index|프로젝트 더보기]]
