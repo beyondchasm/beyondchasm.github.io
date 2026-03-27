@@ -72,9 +72,12 @@ description: '심플함 속에 담긴 강력함 - 할 일을 가장 효율적으
 - [[release/changelog|Changelog]]
 - [[release/versions/v0.1.0|v0.1.0 Release]]
 
+### Pages
+- [[pages/user-manual|User Manual (사용자 메뉴얼)]]
+
 ### Legal
-- [[legal/privacy-policy|Privacy Policy]]
-- [[legal/terms-of-service|Terms of Service]]
+- [[legal/privacy-policy|Privacy Policy (개인정보 처리방침)]]
+- [[legal/terms-of-service|Terms of Service (서비스 이용약관)]]
 
 ### Feedback
 - [[feedback/feature-requests|Feature Requests]]
