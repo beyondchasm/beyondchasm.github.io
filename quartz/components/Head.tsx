@@ -171,6 +171,7 @@ export default (() => {
         <meta name="keywords" content="개발, IT, 블로그, 바이브코딩, 작은물개" />
         <meta name="naver-site-verification" content="9dccd2b0c209407beed0535a667bf32d9b8ea09d" />
         <meta name="google-site-verification" content="Jd02ELEPNqKJh73oCAJcuyR3r9qz7UpU-4wczX5a51k" />
+        <meta name="google-adsense-account" content="ca-pub-3314820536385978" />
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={`${title} | 작은물개 스튜디오`} />
         <meta property="og:type" content="website" />
