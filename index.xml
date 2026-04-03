@@ -6,6 +6,12 @@
       <description>최근 10 건 on 작은물개스튜디오 | 개발, IT, 그리고 뭐라도 만드는 이야기</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>무제</title>
+    <link>https://littlesealstudio.kr/%EB%AC%B4%EC%A0%9C</link>
+    <guid>https://littlesealstudio.kr/%EB%AC%B4%EC%A0%9C</guid>
+    <description></description>
+    <pubDate>Tue, 31 Mar 2026 13:33:39 GMT</pubDate>
+  </item><item>
     <title>사용자 메뉴얼 (User Manual)</title>
     <link>https://littlesealstudio.kr/projects/todoong/pages/user-manual</link>
     <guid>https://littlesealstudio.kr/projects/todoong/pages/user-manual</guid>
@@ -58,12 +64,6 @@
     <link>https://littlesealstudio.kr/projects/todoong/development/devlog</link>
     <guid>https://littlesealstudio.kr/projects/todoong/development/devlog</guid>
     <description>Devlog.</description>
-    <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
-  </item><item>
-    <title>tech-stack</title>
-    <link>https://littlesealstudio.kr/projects/todoong/development/tech-stack</link>
-    <guid>https://littlesealstudio.kr/projects/todoong/development/tech-stack</guid>
-    <description>Tech Stack.</description>
     <pubDate>Fri, 27 Mar 2026 12:32:37 GMT</pubDate>
   </item>
     </channel>
